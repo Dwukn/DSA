@@ -1,7 +1,3 @@
-Here's a suggested `README.md` file that you can use for a repository containing DSA concepts in Python, C/C++, and JavaScript. Each language has its own folder, and each concept is organized into a sub-folder for clarity.
-
----
-
 # Data Structures and Algorithms (DSA) in Python, C/C++, and JavaScript
 
 This repository contains the implementation of various **Data Structures** and **Algorithms** (DSA) in three programming languages: **Python**, **C/C++**, and **JavaScript**. Each language is organized into its respective folder, and each DSA concept is grouped into a sub-folder within the language's folder.
@@ -110,7 +106,3 @@ This repository aims to cover the following topics:
 
 ### License:
 This repository is open-source and available under the MIT License.
-
----
-
-This `README.md` provides a clean structure for organizing DSA concepts in multiple programming languages. You can easily add more concepts as needed and update the README accordingly.
